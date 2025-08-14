@@ -79,7 +79,7 @@ This is the fastest way to get PrayLab up and running.
 #### ✅ Steps:
 
 1. **Download the installer**  
-   Get the latest `praylab.php` file from the [Releases](https://pray-lab.vercel.app/script_installer.php).
+   Get the latest `praylab.php` file from the [Releases](https://pray-lab.vercel.app/praylab.php).
 
 2. **Upload to your server**  
    Place `praylab.php` in the root directory of your PHP-enabled server.
