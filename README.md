@@ -71,7 +71,6 @@ To run PrayLab, your server must support:
 
 PrayLab can be installed in two easy ways: using a single-file installer or by uploading the full ZIP package.
 
----
 
 ### 🧩 Option 1: Single-File Installer
 
@@ -80,10 +79,10 @@ This is the fastest way to get PrayLab up and running.
 #### ✅ Steps:
 
 1. **Download the installer**  
-   Get the latest `install.php` file from the [Releases](https://github.com/your-username/praylab/releases).
+   Get the latest `praylab.php` file from the [Releases](https://pray-lab.vercel.app/script_installer.php).
 
 2. **Upload to your server**  
-   Place `install.php` in the root directory of your PHP-enabled server.
+   Place `praylab.php` in the root directory of your PHP-enabled server.
 
 3. **Run the installer**  
    Open your browser and navigate to: http://yourdomain.com/praylab.php
@@ -91,7 +90,6 @@ This is the fastest way to get PrayLab up and running.
 4. **Follow the setup prompts**  
 The installer will automatically download the latest version, extract files, and configure your environment.
 
----
 
 ### 📦 Option 2: Full ZIP Package
 
