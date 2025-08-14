@@ -1,6 +1,7 @@
 # 🙏 PrayLab
 
-PrayLab is a lightweight, modern spiritual toolkit designed to help users track, manage, and reflect on their daily prayers and habits. Built for simplicity, speed, and elegance, this script is optimized for display monitors or TVs and can be controlled from any device. It’s perfect for hanging in a mosque, prayer room, or community space—providing an easy way to view prayer times, live soccer data, livestreams, and community announcements.
+**PrayLab** is a lightweight, modern spiritual toolkit designed to help users track, manage, and reflect on their daily prayers and habits. Built for simplicity, speed, and elegance, this script is optimized for display monitors or TVs and can be controlled from any device. It’s perfect for hanging in a mosque, prayer room, or community space—providing an easy way to view prayer times, live soccer data, livestreams, and community announcements.
+
 ---
 
 ## 📌 Overview
