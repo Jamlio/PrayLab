@@ -118,7 +118,7 @@ Follow the configuration proccess and you should be good to go.
 
 - Connect a monitor or TV to your server or device. (We recommend Kiosk mode browser on Android tv's, or use a Tv stick)
 - Open PrayLab in full-screen.
-- Control settings remotely from any device.
+- Control settings remotely from any device in the [Control Panel](https://yourdomain.com/control.php).
 
 ---
 
